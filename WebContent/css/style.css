@@ -1,0 +1,44 @@
+/* *** .btn-xl *** */
+.btn-xl,.btn-group-xl>.btn{
+min-width:					10px;
+font-size:					3.1em;
+padding:					0.9rem 2rem;
+border-radius:				8px
+} 
+
+/*Button Large*/
+btn-lg{
+	
+	padding:			$spacer !important;		
+}
+
+/* *** .btn-round *** */
+.btn-round{
+	border-radius:			30px
+}
+
+/* *** .btn-group-round *** */
+.btn-group-round>.btn:first-child:not(:last-child):not(.dropdown-toggle){
+	border-bottom-left-radius:	30px;
+	border-top-left-radius:		30px
+} 
+
+.btn-group-round>.btn:last-child:not(:first-child),.btn-group-round>.dropdown-toggle:not(:first-child){
+	border-bottom-right-radius:	30px;
+	border-top-right-radius:	30px
+} 
+
+.principal-button {
+	margin-bottom: 1.5rem !important;
+}
+
+.principal-button a {
+	/*min-width: 508.6px;*/
+	min-width: 400px;
+}
+
+li{
+
+font-size:	1.4em;
+
+ }
