@@ -4,3 +4,8 @@ Este gestor es una aplicación anexa al __preatendedor__, que se utiliza para ma
 
 ### Video del proyecto funcionando 🔧
 [Ver en youtube el proyecto](https://www.youtube.com/watch?v=WLMSg0B760o&t=66s)
+
+## Autor: ✒️
+* [Alejandro G. Vera](https://linkedin.com/in/alejandro-gonzalo-vera/)
+<br/></br>
+# Enjoy!
